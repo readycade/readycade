@@ -21,4 +21,4 @@ If you’d like to contribute to this project, reach out to me on social media o
 
 _**> > “You could sit at home, and do like absolutely nothing, and your name goes through like 17 computers a day. 1984? Yeah right, man. That’s a typo. Orwell is here now. He’s livin’ large. We have no names, man. No names. We are nameless.”**__
 > > 
-> > 					Emmanuel Goldstein (Hackers 1995)
+Emmanuel Goldstein (Hackers 1995)
