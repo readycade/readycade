@@ -11,8 +11,9 @@ I created these free resources to be used in your specific use cases. If you're 
 If you’d like to contribute to this project, reach out to me on social media or [Discord](https://discord.com/invite/HJuEdZsWYE), or create a pull request for the necessary changes.
 
 ## Other Resources
--   [Boilerplates]([[https://github.com/dockercompose-man/obsidian_public/tree/main/boilerplates](https://github.com/dockercompose-man/boilerplates)](https://github.com/dockercompose-man/boilerplates)) - Templates for various projects like Docker, K8S, Ansible, etc
--   [Cheat-Sheets]([[https://github.com/dockercompose-man/obsidian_public/tree/main/essential%20education](https://github.com/dockercompose-man/essentialeducation)](https://github.com/dockercompose-man/essentialeducation)) - Command Reference for various tools and technologies
+- [Boilerplates](https://github.com/dockercompose-man/obsidian_public/tree/main/boilerplates) - Templates for various projects like Docker, K8S, Ansible, etc
+- [Cheat-Sheets](https://github.com/dockercompose-man/obsidian_public/tree/main/essential%20education) - Command Reference for various tools and technologies
+
 
 ## Support me
 
