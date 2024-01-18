@@ -10,8 +10,12 @@ I created these free resources to be used in your specific use cases. If you're 
 
 If you’d like to contribute to this project, reach out to me on social media or [Discord](https://discord.com/invite/HJuEdZsWYE), or create a pull request for the necessary changes.
 
+## Readystream version 1.0
+- [Readystream](https://github.com/dockercompose-man/readystream) - Essentially what the script does is offer you an OFFLINE and ONLINE way of playing games.
+
 ## Other Resources
-- [Boilerplates](https://github.com/dockercompose-man/boilerplates) - Templates for various projects like Docker, K8S, Ansible, etc
+- [Docker](https://github.com/dockercompose-man/docker) - Configuration/Installation and Docker-Compose files for various applications
+- [Ansible](https://github.com/dockercompose-man/ansible) - Configuration and Playbooks for Ansible
 - [Cheat-Sheets](https://github.com/dockercompose-man/essentialeducation) - Command Reference for various tools and technologies
 
 
