@@ -6,14 +6,10 @@ I created these free resources to be used in your specific use cases. If you're 
 
 > ⚠️ Be aware, products can change over time. I do my best to keep up with the latest changes and releases, but please understand that this won’t always be the case.
 
-## Contribution
-
-If you’d like to contribute to this project, reach out to me on social media or [Discord](https://discord.com/invite/HJuEdZsWYE), or create a pull request for the necessary changes.
-
 ## Readystream version 1.0
 - [Readystream](https://github.com/dockercompose-man/readystream) - Essentially what the script does is offer you an OFFLINE and ONLINE way of playing games.
-- [Readybios](https://github.com/dockercompose-man/readybios) - Essentially what the script does is offer you a drag and drop solution to installion bios files to Recalbox.
-- [Readyroms](https://github.com/dockercompose-man/readyroms) - Essentially what the script does is offer you an OFFLINE and ONLINE way of playing games.
+- [Readybios](https://github.com/dockercompose-man/readybios) - Essentially what the script does is offer you a drag and drop solution to install Bios files to Recalbox.
+- [Readyroms](https://github.com/dockercompose-man/readyroms) - Essentially what the script does is offer you a drag and drop solution to install Rom files to Recalbox.
 
 ## Other Resources
 - [Docker](https://github.com/dockercompose-man/docker) - Configuration/Installation and Docker-Compose files for various applications
@@ -25,6 +21,9 @@ If you’d like to contribute to this project, reach out to me on social media o
 - [Cheat-Sheets](https://github.com/dockercompose-man/essentialeducation) - Command Reference for various tools and technologies
 - [Public Notes](https://github.com/dockercompose-man/obsidian_public) - Public Notes
 
+## Contribution
+
+If you’d like to contribute to this project, reach out to me on social media or [Discord](https://discord.com/invite/HJuEdZsWYE), or create a pull request for the necessary changes.
 
 ## Support me
 
