@@ -8,8 +8,8 @@ I created these free resources to be used in your specific use cases. If you're 
 
 ## Readystream version 1.0
 - [Readystream](https://github.com/dockercompose-man/readystream) - Essentially what the script does is offer you an OFFLINE and ONLINE way of playing games.
-- [Readybios](https://github.com/dockercompose-man/readybios) - Essentially what the script does is offer you a drag and drop solution to install Bios files to Recalbox.
-- [Readyroms](https://github.com/dockercompose-man/readyroms) - Essentially what the script does is offer you a drag and drop solution to install Rom files to Recalbox.
+- [Readybios](https://github.com/dockercompose-man/readybios) - A drag and drop solution to install Bios files to Recalbox.
+- [Readyroms](https://github.com/dockercompose-man/readyroms) - A drag and drop solution to install Rom files to Recalbox.
 
 ## Other Resources
 - [Docker](https://github.com/dockercompose-man/docker) - Configuration/Installation and Docker-Compose files for various applications
