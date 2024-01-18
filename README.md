@@ -12,14 +12,9 @@ I created these free resources to be used in your specific use cases. If you're 
 - [Readyroms](https://github.com/dockercompose-man/readyroms) - A drag and drop solution to install Rom files to Recalbox.
 
 ## Other Resources
-- [Docker](https://github.com/dockercompose-man/docker) - Configuration/Installation and Docker-Compose files for various applications
-- [Ansible](https://github.com/dockercompose-man/ansible) - Configuration and Playbooks for Ansible
-- [Kubernetes](https://github.com/dockercompose-man/kubernetes) - Configuration/Installation files for various applications
-- [Git](https://github.com/dockercompose-man/git) - Configuration/Installation files for Git-Actions
-- [Terraform](https://github.com/dockercompose-man/terraform) - Configuration/Installation files for various infrastructure
-- [Vagrant](https://github.com/dockercompose-man/vagrant) - Configuration/Installation files
+- [Boilerplates](https://github.com/dockercompose-man/boilerplates) - Configuration/Installation files for various applications
 - [Cheat-Sheets](https://github.com/dockercompose-man/essentialeducation) - Command Reference for various tools and technologies
-- [Public Notes](https://github.com/dockercompose-man/obsidian_public) - Public Notes
+- [Public Notes](https://github.com/dockercompose-man/obsidian_public) - Obsidian Public Notes
 
 ## Contribution
 
