@@ -19,6 +19,7 @@ If you’d like to contribute to this project, reach out to me on social media o
 - [Docker](https://github.com/dockercompose-man/docker) - Configuration/Installation and Docker-Compose files for various applications
 - [Ansible](https://github.com/dockercompose-man/ansible) - Configuration and Playbooks for Ansible
 - [Kubernetes](https://github.com/dockercompose-man/kubernetes) - Configuration/Installation files for various applications
+- [Git](https://github.com/dockercompose-man/git) - Configuration/Installation files for Git-Actions
 - [Terraform](https://github.com/dockercompose-man/terraform) - Configuration/Installation files for various infrastructure
 - [Vagrant](https://github.com/dockercompose-man/vagrant) - Configuration/Installation files
 - [Cheat-Sheets](https://github.com/dockercompose-man/essentialeducation) - Command Reference for various tools and technologies
