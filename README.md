@@ -12,10 +12,14 @@ If you’d like to contribute to this project, reach out to me on social media o
 
 ## Readystream version 1.0
 - [Readystream](https://github.com/dockercompose-man/readystream) - Essentially what the script does is offer you an OFFLINE and ONLINE way of playing games.
+- 
 
 ## Other Resources
 - [Docker](https://github.com/dockercompose-man/docker) - Configuration/Installation and Docker-Compose files for various applications
 - [Ansible](https://github.com/dockercompose-man/ansible) - Configuration and Playbooks for Ansible
+- [Kubernetes](https://github.com/dockercompose-man/kubernetes) - Configuration/Installation files for various applications
+- [Terraform](https://github.com/dockercompose-man/terraform) - Configuration/Installation files for various infrastructure
+- [Vagrant](https://github.com/dockercompose-man/vagrant) - Configuration/Installation files
 - [Cheat-Sheets](https://github.com/dockercompose-man/essentialeducation) - Command Reference for various tools and technologies
 
 
