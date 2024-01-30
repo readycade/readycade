@@ -8,8 +8,8 @@ I created these free resources to be used in your specific use cases. If you're 
 
 
 ## Readycade Companion Applications 1.0.0 (Proprietary)
-- [Readycade Configs](https://github.com/dockercompose-man/readycade_configs) - Essentially what the script does is offer you an OFFLINE and ONLINE way of playing games.
-- [Readycade Media Packs](https://github.com/dockercompose-man/readycade_media) - A drag and drop solution to install Bios files to Recalbox.
+- [Readycade Configs](https://github.com/dockercompose-man/readycade_configs) - This is what separates the boys from the men. A complete arcade setup in under 5 minutes!
+- [Readycade Media Packs](https://github.com/dockercompose-man/readycade_media) - Get your Consoles and Systems up and running in minutes with Ready Media Packs!
 
 ## Readycade OTHER Applications(Open Source GPLv3)
 
