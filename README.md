@@ -20,7 +20,7 @@ I created these closed and open sourced free resources to be used in your specif
 - [Readysync](https://github.com/dockercompose-man/readysync) - Essentially what the script does is offer you an OFFLINE and ONLINE way of playing games.
 
 ## Other Resources
-- [ComfyUI Workflows](https://github.com/dockercompose-man/boilerplates](https://github.com/readycade/ComfyUI) - Various Workflows for ComfyUI and Stable Diffusion AI Models
+- [ComfyUI Workflows](https://github.com/readycade/ComfyUI) - Various Workflows for ComfyUI and Stable Diffusion AI Models
 - [Boilerplates](https://github.com/dockercompose-man/boilerplates) - Configuration/Installation files for various applications
 - [Cheat-Sheets](https://github.com/dockercompose-man/essentialeducation) - Command Reference for various tools and technologies
 
