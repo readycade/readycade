@@ -8,21 +8,21 @@ I created these closed and open sourced free resources to be used in your specif
 
 
 ## Readycade Companion Applications (Proprietary)
-- [Readycade Configs](https://github.com/dockercompose-man/readycade_configs) - This is what separates the boys from the men. A complete arcade setup in under 5 minutes!
-- [Readycade Media Packs Installer](https://github.com/dockercompose-man/readycade_media) - Get your Consoles and Systems up and running in minutes with Ready Media Packs!
+- [Readycade Configs](https://github.com/readycade/readycade_configs) - This is what separates the boys from the men. A complete arcade setup in under 5 minutes!
+- [Readycade Media Packs Installer](https://github.com/readycade/readycade_media) - Get your Consoles and Systems up and running in minutes with Ready Media Packs!
 
 ## Readycade OTHER Applications (Open Source GPLv3)
 
-- [Readycade Bios Packs Installer](https://github.com/dockercompose-man/readybios) - Select your Bios Pack and Install to Readycade (Recalbox).
-- [Readycade Rom Packs Installer](https://github.com/dockercompose-man/readyroms) - Select your Rom Pack and Install to Readycade (Recalbox).
+- [Readycade Bios Packs Installer](https://github.com/readycade/readybios) - Select your Bios Pack and Install to Readycade (Recalbox).
+- [Readycade Rom Packs Installer](https://github.com/readycade/readyroms) - Select your Rom Pack and Install to Readycade (Recalbox).
  
 ## Readysync version 1.0.0 (Compatible with Readycade)
-- [Readysync](https://github.com/dockercompose-man/readysync) - Essentially what the script does is offer you an OFFLINE and ONLINE way of playing games.
+- [Readysync](https://github.com/readycade/readysync) - Essentially what the script does is offer you an OFFLINE and ONLINE way of playing games.
 
 ## Other Resources
 - [ComfyUI Workflows](https://github.com/readycade/ComfyUI) - Various Workflows for ComfyUI and Stable Diffusion AI Models
-- [Boilerplates](https://github.com/dockercompose-man/boilerplates) - Configuration/Installation files for various applications
-- [Cheat-Sheets](https://github.com/dockercompose-man/essentialeducation) - Command Reference for various tools and technologies
+- [Boilerplates](https://github.com/readycade/boilerplates) - Configuration/Installation files for various applications
+- [Cheat-Sheets](https://github.com/readycade/essentialeducation) - Command Reference for various tools and technologies
 
 ## Contribution
 
