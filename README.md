@@ -22,7 +22,7 @@
 
 ## Contribution
 
-If you’d like to contribute to this project, reach out to me on social media or [Discord](https://discord.gg/H3BJVSqMG8), or create a pull request for the necessary changes.
+If you’d like to contribute to this project, reach out to me on social media or [Discord](https://discord.gg/vw4mKzhs6n), or create a pull request for the necessary changes.
 
 ## Support me
 
