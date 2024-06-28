@@ -24,13 +24,11 @@
 
 If you’d like to contribute to this project, reach out to me on social media or [Discord](https://discord.gg/vw4mKzhs6n), or create a pull request for the necessary changes.
 
-
-
 ## Support
 
-Ask politely in the support chat for help, or submit a ticket in Discord [Discord](https://discord.gg/vw4mKzhs6n)
+Ask politely in the support chat for help, or submit a ticket in [Discord](https://discord.gg/vw4mKzhs6n)
 
-If you're old school and want to use IRC chat [IRC](https://irc.readycade.com) or on [Telegram](https://t.me/mistyxmr)
+If you're old school and want to use [IRC chat](https://irc.readycade.com) or on [Telegram](https://t.me/mistyxmr)
 
 If you can't quite get the help you need via Discord or IRC please visit our Support Page to Submit a Ticket [Support Channels](https://support.readycade.com/en/)
 
