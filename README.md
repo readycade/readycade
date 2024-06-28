@@ -5,16 +5,16 @@
 > ⚠️ Be aware, products can change over time. I do my best to keep up with the latest changes and releases, but please understand that this won’t always be the case.
 
 
-## Readycade Companion Applications (Proprietary)
+## Readycade Companion Applications (Proprietary) Windows, Linux and MacOS
 - [Readycade Configs](https://github.com/readycade/readycade_configs) - This is what separates the boys from the men. A complete arcade setup in under 5 minutes!
 - [Readycade Media Packs Installer](https://github.com/readycade/readycade_media) - Get your Consoles and Systems up and running in minutes with Ready Media Packs!
 
-## Readycade OTHER Applications (Open Source GPLv3)
+## Readycade OTHER Applications (Open Source GPLv3) Windows, Linux and MacOS
 
 - [Readycade Bios Packs Installer](https://github.com/readycade/readybios) - Select your Bios Pack and Install to Readycade (Recalbox).
 - [Readycade Rom Packs Installer](https://github.com/readycade/readyroms) - Select your Rom Pack and Install to Readycade (Recalbox).
  
-## Readysync version 1.0.0 (Compatible with Readycade)
+## Readysync version 1.0.0 (Compatible with Readycade) Windows, Linux and MacOS
 - [Readysync](https://github.com/readycade/readysync) - Essentially what the script does is offer you an OFFLINE and ONLINE way of playing games.
 
 ## Other Resources
