@@ -18,17 +18,22 @@
 - [Readysync](https://github.com/readycade/readysync) - Essentially what the script does is offer you an OFFLINE and ONLINE way of playing games.
 
 ## Other Resources
-- [ComfyUI Workflows](https://github.com/readycade/ComfyUI) - Various Workflows for ComfyUI and Stable Diffusion AI Models
-- [Boilerplates](https://github.com/readycade/boilerplates) - Configuration/Installation files for various applications
-- [Cheat-Sheets](https://github.com/readycade/essentialeducation) - Command Reference for various tools and technologies
+- [Readycade Theme](https://github.com/readycade/readytheme) - Readycade V1 Theme for Recalbox 9.2+ / Supports 240p - 4K Resolutions 
 
 ## Contribution
 
 If you’d like to contribute to this project, reach out to me on social media or [Discord](https://discord.gg/vw4mKzhs6n), or create a pull request for the necessary changes.
 
-## Support me
 
-[Making a Donation](https://home.orangefarm.ca/donate/) will support my mission to create free, high-quality content for tech enthusiasts and IT professionals.
+
+## Support
+
+Ask politely in the support chat for help, or submit a ticket in Discord [Discord](https://discord.gg/vw4mKzhs6n)
+
+If you're old school and want to use IRC chat [IRC](https://irc.readycade.com) or on [Telegram](https://t.me/mistyxmr)
+
+If you can't quite get the help you need via Discord or IRC please visit our Support Page to Submit a Ticket [Support Channels](https://support.readycade.com/en/)
+
 
 _**> > “You could sit at home, and do like absolutely nothing, and your name goes through like 17 computers a day. 1984? Yeah right, man. That’s a typo. Orwell is here now. He’s livin’ large. We have no names, man. No names. We are nameless.”**__
 > > 
