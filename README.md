@@ -1,7 +1,7 @@
 # [Readycade](https://readycade.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=readycade&show_icons=true&hide=prs,issues,contribs&show=reviews,discussions_started,discussions_answered&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=readycade&layout=compact&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=readycade&show_icons=true&hide=prs,issues,contribs&show=reviews,discussions_started,discussions_answered&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=readycade&layout=compact&theme=transparent)
 
 #### ReadyCade is a fully customizable emulation device with high performance. It comes with pre-configured applications to create your own arcade experience.
 
