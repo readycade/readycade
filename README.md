@@ -1,7 +1,11 @@
 # [Readycade](https://readycade.com)
 
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=readycade&show_icons=true&hide=prs,issues,contribs&show=reviews,discussions_started,discussions_answered&theme=transparent"/>
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=readycade&show_icons=true&hide=prs,issues,contribs&show=reviews,discussions_started,discussions_answered,&include_all_commits=true&theme=transparent"/>
 <img alt=top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=readycade&langs_count=8&layout=compact&theme=transparent"/>
+
+
+
+
 
 #### ReadyCade is a fully customizable emulation device with high performance. It comes with pre-configured applications to create your own arcade experience.
 
